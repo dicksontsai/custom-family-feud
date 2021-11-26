@@ -1,0 +1,128 @@
+{
+  "surveys": [
+    {
+      "multiple": 1,
+      "question": "Name a place grandma tells grandpa to go",
+      "responses": [
+        {
+          "response": "TO BED",
+          "value": 29
+        },
+        {
+          "response": "STRAIGHT TO HELL",
+          "value": 21
+        },
+        {
+          "response": "THE STORE",
+          "value": 18
+        },
+        {
+          "response": "OUTSIDE/ON PORCH",
+          "value": 6
+        },
+        {
+          "response": "THE DOCTOR",
+          "value": 4
+        },
+        {
+          "response": "THE BATHROOM",
+          "value": 4
+        },
+        {
+          "response": "CHURCH",
+          "value": 3
+        },
+        {
+          "response": "LONG WALK...SHORT PIER",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "multiple": 1,
+      "question": "We asked 100 men. Name something you want for Christmas that's too big to get down the chimney",
+      "responses": [
+        {
+          "response": "CAR/TRUCK",
+          "value": 78
+        },
+        {
+          "response": "TV",
+          "value": 5
+        },
+        {
+          "response": "GRILL",
+          "value": 3
+        },
+        {
+          "response": "MOTORCYCLE/HARLEY",
+          "value": 3
+        },
+        {
+          "response": "FRIDGE",
+          "value": 2
+        },
+        {
+          "response": "HOT BABE",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "multiple": 2,
+      "question": "Name something people pick out ahead of time so the funeral will be fabulous",
+      "responses": [
+        {
+          "response": "MUSIC/GOOD DJ",
+          "value": 34
+        },
+        {
+          "response": "CASKET",
+          "value": 30
+        },
+        {
+          "response": "BURIAL PLOT",
+          "value": 11
+        },
+        {
+          "response": "CUTE OUTFIT",
+          "value": 8
+        },
+        {
+          "response": "FLOWERS",
+          "value": 7
+        },
+        {
+          "response": "FUNERAL HOME",
+          "value": 2
+        },
+        {
+          "response": "HEADSTONE",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "multiple": 3,
+      "question": "You just found out you're related to Steve Harvey (the host of Family Feud). What might you ask him for?",
+      "responses": [
+        {
+          "response": "MILLIONS/A LOAN",
+          "value": 54
+        },
+        {
+          "response": "A JOB/HIS JOB",
+          "value": 20
+        },
+        {
+          "response": "HANG OUT",
+          "value": 6
+        },
+        {
+          "response": "PROOF/DNA TEST",
+          "value": 5
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "surveys": [
+    {
+      "multiple": 1,
+      "question": "",
+      "responses": [
+        {
+          "response": "",
+          "value": 50
+        },
+        {
+          "response": "",
+          "value": 40
+        }
+      ]
+    },
+    {
+      "multiple": 1,
+      "question": "",
+      "responses": [
+        {
+          "response": "",
+          "value": 50
+        },
+        {
+          "response": "",
+          "value": 40
+        }
+      ]
+    },
+    {
+      "multiple": 2,
+      "question": "",
+      "responses": [
+        {
+          "response": "",
+          "value": 50
+        },
+        {
+          "response": "",
+          "value": 40
+        }
+      ]
+    },
+    {
+      "multiple": 3,
+      "question": "",
+      "responses": [
+        {
+          "response": "",
+          "value": 50
+        },
+        {
+          "response": "",
+          "value": 40
+        }
+      ]
+    }
+  ]
+}
